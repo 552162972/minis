@@ -1,2 +1,2 @@
-# minis
- minis
+# minist
+ minisT
